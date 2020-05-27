@@ -1,0 +1,16 @@
+﻿  Source.cpp
+d:\desktop\teme grafica\tema 4\tema_4_ex_1\tema_4_ex_1\source.cpp(160): warning C4326: return type of 'main' should be 'int' instead of 'void'
+Source.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl miscad(void)" (?miscad@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl deseneazaScena(void)" (?deseneazaScena@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol __imp_glutIdleFunc referenced in function "void __cdecl mouse(int,int,int,int)" (?mouse@@YAXHHHH@Z)
+Source.obj : error LNK2019: unresolved external symbol __imp_glutReshapeFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutMouseFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+Source.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+C:\Program Files\MSVC\lib\freeglut.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+D:\Desktop\Teme Grafica\Tema 4\Tema_4_ex_1\x64\Debug\Tema_4_ex_1.exe : fatal error LNK1120: 12 unresolved externals

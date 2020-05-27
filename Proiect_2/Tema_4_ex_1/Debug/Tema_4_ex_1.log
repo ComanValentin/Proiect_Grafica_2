@@ -1,0 +1,31 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Tema 9.vcxproj, Tema_4_ex_1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Proiect_2.cpp
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(130): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(171): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(172): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(178): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(179): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(185): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(186): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(192): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(193): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(199): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(200): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(206): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(207): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(316): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(317): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(318): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(319): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(327): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(331): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(346): warning C4305: '-=': truncation from 'double' to 'float'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(353): warning C4305: '+=': truncation from 'double' to 'float'
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(359): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(360): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(364): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(365): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(404): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\desktop\tema_grafica\tema_4_ex_1\proiect_2.cpp(405): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Tema_4_ex_1.vcxproj -> D:\Desktop\Tema_grafica\Debug\Proiect_2.exe
